@@ -1663,10 +1663,11 @@ p {
 }
 
 /* About Page Footer Fix - Black Text */
-.site-footer,
-.site-footer * {
-  color: #000000 !important; /* make all footer text black */
+.about-page .site-footer,
+.about-page .site-footer * {
+  color: #000000;
 }
+
 
 .site-footer a {
   color: #000000 !important;
