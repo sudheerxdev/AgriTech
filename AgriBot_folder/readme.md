@@ -14,6 +14,8 @@ It uses Google's **Gemini AI API**, supports **voice input**, and can reply in *
 
 ---
 
+
+
 ## 📦 Requirements
 Install the dependencies from `requirements.txt`:
 
