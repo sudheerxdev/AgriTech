@@ -1674,6 +1674,7 @@ p {
   opacity: 1 !important; /* ensure text is solid */
 }
 
+
 .site-footer a:hover {
   color: #15803d !important; /* optional: green hover to match your theme */
 }
