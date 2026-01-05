@@ -17,7 +17,7 @@ st.markdown("<p style='text-align: center;'>Ask me about crops, soil, fertilizer
 st.markdown("""
     <style>
     .chat-bubble {
-        padding: 12px 15px;
+        padding: 12px 16px;
         margin: 8px 0;
         border-radius: 10px;
         font-size: 16px;
